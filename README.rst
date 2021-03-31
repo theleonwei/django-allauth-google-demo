@@ -1,7 +1,7 @@
 Google Auth
 ===========
 
-Google Auth Demo
+Google Auth Demo with Django all auth, Django cookiecutter
 
 :License: MIT
 
