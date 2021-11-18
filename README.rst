@@ -1,4 +1,4 @@
-[GET HELP WITH YOUR DJANGO PROJECT](https://instamentor.com/mentors/leon)
+[GET HELP WITH YOUR Django PROJECT](https://instamentor.com/mentors/leon)
 
 Google Auth
 ===========
