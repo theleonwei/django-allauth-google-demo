@@ -1,4 +1,4 @@
-[GET HELP WITH YOUR Django PROJECT](https://instamentor.com/mentors/leon)
+[Start your Django SaaS Project Boilerplate](https://djangosaas.com/)
 
 Google Auth
 ===========
@@ -7,10 +7,7 @@ Google Auth Demo with Django all auth, Django cookiecutter
 
 :License: MIT
 
-This code repo accompanies the following articles:
-
-* Step by step tutorial on sign in a user with Django all auth, Google and Django Cookiecutter
-https://instamentor.com/articles/django-all-auth-tutorial-with-google-and-django-cookiecutter
+This code repo accompanies the following article:
 
 * Django All Auth with Google One Tap for Web Tutorial
-https://instamentor.com/articles/django-all-auth-with-google-one-tap-for-web-tutorial
+https://leonwei.com/django-all-auth-with-google-one-tap-for-web-tutorial-8d2e8547872
