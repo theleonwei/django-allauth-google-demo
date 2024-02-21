@@ -1,4 +1,5 @@
-[The Ultimate AI & SaaS Boilerplate for your Django Project](https://aisaastemplate.com/)
+Check out [The Ultimate AI & SaaS Boilerplate for your Django Project](https://aisaastemplate.com/)
+
 
 Google Auth
 ===========
