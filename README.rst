@@ -1,4 +1,4 @@
-[Start your Django SaaS Project Boilerplate](https://djangosaas.com/)
+[The Ultimate AI & SaaS Boilerplate for your Django Project](https://aisaastemplate.com/)
 
 Google Auth
 ===========
